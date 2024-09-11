@@ -1,0 +1,1 @@
+﻿You need to add an App.config file with a connection string.
